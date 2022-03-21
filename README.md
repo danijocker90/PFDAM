@@ -1,5 +1,5 @@
 # PFDAM
-Proyecto Final DAM 2015 by Daniel Alegre (danijocker90@gmail.com)
+Proyecto Final DAM 2015
 
 Juego ¿Quién es quién? programado en Java.
   * Modo de Juego Individual: La máquina recibe un personaje aleatorio y te toca adivinarlo.
